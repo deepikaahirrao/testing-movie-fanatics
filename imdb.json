@@ -1,0 +1,332 @@
+[
+  {
+    "99popularity": 83.0,
+    "director": "Victor Fleming",
+    "genre": [
+      "Adventure",
+      " Family",
+      " Fantasy",
+      " Musical"
+    ],
+    "imdb_score": 8.3,
+    "name": "The Wizard of Oz"
+  },
+  {
+    "99popularity": 88.0,
+    "director": "George Lucas",
+    "genre": [
+      "Action",
+      " Adventure",
+      " Fantasy",
+      " Sci-Fi"
+    ],
+    "imdb_score": 8.8,
+    "name": "Star Wars"
+  },
+  {
+    "99popularity": 66.0,
+    "director": "Giovanni Pastrone",
+    "genre": [
+      "Adventure",
+      " Drama",
+      " War"
+    ],
+    "imdb_score": 6.6,
+    "name": "Cabiria"
+  },
+  {
+    "99popularity": 87.0,
+    "director": "Alfred Hitchcock",
+    "genre": [
+      "Horror",
+      " Mystery",
+      " Thriller"
+    ],
+    "imdb_score": 8.7,
+    "name": "Psycho"
+  },
+  {
+    "99popularity": 80.0,
+    "director": "Merian C. Cooper",
+    "genre": [
+      "Adventure",
+      " Fantasy",
+      " Horror"
+    ],
+    "imdb_score": 8.0,
+    "name": "King Kong"
+  },
+  {
+    "99popularity": 84.0,
+    "director": "Fritz Lang",
+    "genre": [
+      "Adventure",
+      " Drama",
+      " Sci-Fi"
+    ],
+    "imdb_score": 8.4,
+    "name": "Metropolis"
+  },
+  {
+    "99popularity": 86.0,
+    "director": "Marc Daniels",
+    "genre": [
+      "Adventure",
+      " Sci-Fi"
+    ],
+    "imdb_score": 8.6,
+    "name": "Star Trek"
+  },
+  {
+    "99popularity": 88.0,
+    "director": "Michael Curtiz",
+    "genre": [
+      "Drama",
+      " Romance",
+      " War"
+    ],
+    "imdb_score": 8.8,
+    "name": "Casablanca"
+  },
+  {
+    "99popularity": 79.0,
+    "director": "William Cottrell",
+    "genre": [
+      "Animation",
+      " Family",
+      " Fantasy",
+      " Musical",
+      " Romance"
+    ],
+    "imdb_score": 7.9,
+    "name": "Snow White and the Seven Dwarfs"
+  },
+  {
+    "99popularity": 84.0,
+    "director": "Stanley Kubrick",
+    "genre": [
+      "Adventure",
+      " Mystery",
+      " Sci-Fi"
+    ],
+    "imdb_score": 8.4,
+    "name": "2001 : A Space Odyssey"
+  },
+  {
+    "99popularity": 92.0,
+    "director": "Francis Ford Coppola",
+    "genre": [
+      "Crime",
+      " Drama"
+    ],
+    "imdb_score": 9.2,
+    "name": "The Godfather"
+  },
+  {
+    "99popularity": 71.0,
+    "director": "D.W. Griffith",
+    "genre": [
+      "Drama",
+      " History",
+      " Romance",
+      " War",
+      " Western"
+    ],
+    "imdb_score": 7.1,
+    "name": "The Birth of a Nation"
+  },
+  {
+    "99popularity": 81.0,
+    "director": "Alfred Hitchcock",
+    "genre": [
+      "Crime",
+      " Film-Noir",
+      " Mystery",
+      " Thriller"
+    ],
+    "imdb_score": 8.1,
+    "name": "Shadow of a Doubt"
+  },
+  {
+    "99popularity": 83.0,
+    "director": "Steven Spielberg",
+    "genre": [
+      "Thriller"
+    ],
+    "imdb_score": 8.3,
+    "name": "Jaws"
+  },
+  {
+    "99popularity": 64.0,
+    "director": "J. Searle Dawley",
+    "genre": [
+      "Fantasy",
+      " Romance"
+    ],
+    "imdb_score": 6.4,
+    "name": "Snow White"
+  },
+  {
+    "99popularity": 86.0,
+    "director": "Francis Ford Coppola",
+    "genre": [
+      "Drama",
+      " War"
+    ],
+    "imdb_score": 8.6,
+    "name": "Apocalypse Now"
+  },
+  {
+    "99popularity": 82.0,
+    "director": "Victor Fleming",
+    "genre": [
+      "Drama",
+      " Romance",
+      " War"
+    ],
+    "imdb_score": 8.2,
+    "name": "Gone with the Wind"
+  },
+  {
+    "99popularity": 76.0,
+    "director": "Ernst Lubitsch",
+    "genre": [
+      "Musical",
+      " Comedy",
+      " Romance"
+    ],
+    "imdb_score": 7.6,
+    "name": "The Merry Widow"
+  },
+  {
+    "99popularity": 81.0,
+    "director": "John Ford",
+    "genre": [
+      "Adventure",
+      " Drama",
+      " Western"
+    ],
+    "imdb_score": 8.1,
+    "name": "The Searchers"
+  },
+  {
+    "99popularity": 86.0,
+    "director": "Alfred Hitchcock",
+    "genre": [
+      "Crime",
+      " Mystery",
+      " Romance",
+      " Thriller"
+    ],
+    "imdb_score": 8.6,
+    "name": "Vertigo"
+  },
+  {
+    "99popularity": 73.0,
+    "director": "Terence Young",
+    "genre": [
+      "Action",
+      " Adventure",
+      " Thriller"
+    ],
+    "imdb_score": 7.3,
+    "name": "Dr. No"
+  },
+  {
+    "99popularity": 83.0,
+    "director": "Orson Welles",
+    "genre": [
+      "Crime",
+      " Film-Noir",
+      " Thriller"
+    ],
+    "imdb_score": 8.3,
+    "name": "Touch of Evil"
+  },
+  {
+    "99popularity": 74.0,
+    "director": "Merian C. Cooper",
+    "genre": [
+      "Adventure",
+      " Documentary"
+    ],
+    "imdb_score": 7.4,
+    "name": "Chang : A Drama of the Wilderness"
+  },
+  {
+    "99popularity": 81.0,
+    "director": "William Friedkin",
+    "genre": [
+      "Horror"
+    ],
+    "imdb_score": 8.1,
+    "name": "The Exorcist"
+  },
+  {
+    "99popularity": 86.0,
+    "director": "Orson Welles",
+    "genre": [
+      "Drama",
+      " Mystery"
+    ],
+    "imdb_score": 8.6,
+    "name": "Citizen Kane"
+  },
+  {
+    "99popularity": 81.0,
+    "director": "James Cameron",
+    "genre": [
+      "Action",
+      " Sci-Fi",
+      " Thriller"
+    ],
+    "imdb_score": 8.1,
+    "name": "The Terminator"
+  },
+  {
+    "99popularity": 81.0,
+    "director": "Roman Polanski",
+    "genre": [
+      "Drama",
+      " Horror",
+      " Mystery"
+    ],
+    "imdb_score": 8.1,
+    "name": "Rosemarys Baby"
+  },
+  {
+    "99popularity": 81.0,
+    "director": "Sergei M. Eisenstein",
+    "genre": [
+      "Drama",
+      " History",
+      " War"
+    ],
+    "imdb_score": 8.1,
+    "name": "Bronenosets Potyomkin"
+  },
+  {
+    "99popularity": 88.0,
+    "director": "Irvin Kershner",
+    "genre": [
+      "Action",
+      " Adventure",
+      " Sci-Fi"
+    ],
+    "imdb_score": 8.8,
+    "name": "Star Wars : Episode V - The Empire Strikes Back"
+  },
+  {
+    "99popularity": 71.0,
+    "director": "Harry O. Hoyt",
+    "genre": [
+      "Adventure",
+      " Fantasy",
+      " Horror",
+      " Sci-Fi",
+      " Thriller"
+    ],
+    "imdb_score": 7.1,
+    "name": "The Lost World"
+  }
+]
